@@ -271,7 +271,7 @@ This repository serves as a reference implementation for advanced DAO patterns (
 
 
 
-<i>Senior Smart Contract Developer · Solidity · Foundry · Full Stack Web3</i>
+<i>Smart Contract Developer · Solidity · Foundry · Full Stack Web3</i>
 </div>
 
 ```
