@@ -16,7 +16,6 @@
   <br>
 </p>
 
-
 <br>
 <a href="https://sentinel-dao-brown.vercel.app/">
   <img src="https://img.shields.io/badge/🔴_LIVE_ACCESS-LAUNCH_SENTINEL_DASHBOARD-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=232323&height=50" height="50" />
