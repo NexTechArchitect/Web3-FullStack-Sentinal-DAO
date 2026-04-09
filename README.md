@@ -263,11 +263,7 @@ This repository serves as a reference implementation for advanced DAO patterns (
 
 
 
-
-
 <a href="https://x.com/itZ_AmiT0">Connect on 𝕏 (Twitter)</a>
-
-
 
 
 
