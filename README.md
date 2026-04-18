@@ -7,7 +7,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Stack](https://img.shields.io/badge/Full_Stack-Next.js_14_%7C_Foundry-blueviolet.svg)](https://nextjs.org)
 [![Network](https://img.shields.io/badge/Network-Sepolia_Testnet-blue.svg)](https://sepolia.etherscan.io/)
-[![Status](https://img.shields.io/badge/Security-Invariant_Tested-orange.svg)](https://github.com/NexTechArchitect)
 
 <p align="center">
   <br>
