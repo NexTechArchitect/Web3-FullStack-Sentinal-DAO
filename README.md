@@ -250,13 +250,6 @@ Open `http://localhost:3000` to view the Dashboard.
 
 ---
 
-## ⚠️ Disclaimer
-
-**EDUCATIONAL ARCHITECTURE NOTICE:**
-This repository serves as a reference implementation for advanced DAO patterns (Timelock, AA, Yield Strategies). While it utilizes production-grade libraries (OpenZeppelin) and verified architectural patterns, this codebase has **NOT** undergone a formal external security audit. Use at your own risk.
-
----
-
 <div align="center">
 <b>Engineered with ❤️ by <a href="https://github.com/NexTechArchitect">NexTech Architect</a></b>
 
