@@ -218,25 +218,11 @@ npm install
 
 # Run Development Server
 npm run dev
-
 ```
-
-Open `http://localhost:3000` to view the Dashboard.
-
----
 
 <div align="center">
-<b>Engineered with ❤️ by <a href="https://github.com/NexTechArchitect">NexTech Architect</a></b>
 
+#### Architected & Engineered by [NexTech Architect](https://github.com/NexTechArchitect)
 
+#### Smart Contract Developer · Solidity · Foundry · Full Stack Web3
 
-<a href="https://x.com/itZ_AmiT0">Connect on 𝕏 (Twitter)</a>
-
-
-
-<i>Smart Contract Developer · Solidity · Foundry · Full Stack Web3</i>
-</div>
-
-```
-
-```
