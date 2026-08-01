@@ -177,30 +177,6 @@ The frontend is built on **Next.js 14 (App Router)**, utilizing a modular provid
 
 ---
 
-## 🧪 Testing & Security Vectors
-
-The system has undergone a rigorous multi-layered testing strategy using the **Foundry** framework, executing **256 tests** across Unit, Fuzzing, and Integration layers with **zero failures**.
-
-### Test Suite Topology
-
-The test architecture mirrors the modularity of the system, ensuring coverage across State, Logic, and Threat Models.
-
-```bash
-test/
-├── unit/                   # ATOMIC LOGIC VERIFICATION (20 Files)
-│   ├── DAOCore.t.sol       # Registry Integrity
-│   ├── DAOTreasury.t.sol   # Vault Security & Reentrancy Checks
-│   └── RoleManager.t.sol   # Access Control Invariants
-├── integration/            # SYSTEM INTERACTION (5 Files)
-│   ├── DAOIntegration_Lifecycle.t.sol  # Full Flow (Propose -> Vote -> Execute)
-│   └── DAOIntegration_RageQuit.t.sol   # Minority Protection Mechanics
-├── fuzz/                   # PROPERTY-BASED TESTING (4 Files)
-│   ├── FuzzDAO_SystemStress.t.sol      # High-Entropy State Chaos
-│   └── FuzzVotingStrategies.t.sol      # Mathematical Correctness
-└── mocks/                  # SIMULATION ADAPTERS
-
-```
-
 ### Key Methodologies
 
 1. **Unit Tests:** Isolated testing of individual functions (e.g., `test_DepositERC20`) to ensure atomic logic correctness.
