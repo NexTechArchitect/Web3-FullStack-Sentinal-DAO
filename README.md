@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Stack](https://img.shields.io/badge/Full_Stack-Next.js_14_%7C_Foundry-blueviolet.svg)](https://nextjs.org)
 [![Network](https://img.shields.io/badge/Network-Sepolia_Testnet-blue.svg)](https://sepolia.etherscan.io/)
-
+ 
 <p align="center">
   <br>
   <b>A modular, protocol-level governance infrastructure designed for long-term institutional control.</b><br>
