@@ -161,22 +161,6 @@ The frontend is built on **Next.js 14 (App Router)**, utilizing a modular provid
 * **Styling:** Tailwind CSS + Framer Motion (8K Animations)
 * **Infrastructure:** Public RPC Nodes (Zero API Key dependency for resilience)
 
-### Client Architecture
-
-| Directory | Role & Responsibility |
-| --- | --- |
-| **`app/`** | **Routing & Pages.** distinct modules (`/treasury`, `/proposals`, `/guardian`) using Server Components for performance. |
-| **`components/`** | **UI Atoms.** Reusable 8K UI elements. Includes `SessionGuard.tsx` which protects routes based on AA session status. |
-| **`hooks/`** | **Business Logic.** Custom React Hooks wrapping Wagmi/Viem: <br>
-
-<br>• `useAASession.ts`: Manages Account Abstraction session keys.<br>
-
-<br>• `useDAOData.ts`: Fetches real-time governance metrics.<br>
-
-<br>• `useProposals.ts`: Handles proposal lifecycle (Submit -> Vote -> Queue). |
-
----
-
 ### Key Methodologies
 
 1. **Unit Tests:** Isolated testing of individual functions (e.g., `test_DepositERC20`) to ensure atomic logic correctness.
